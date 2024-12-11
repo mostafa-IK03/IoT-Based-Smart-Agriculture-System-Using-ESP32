@@ -73,14 +73,15 @@ To build the Smart Irrigation System, you will need the following components:
 ## Setup Instructions
 
 ### 1. Clone the Repository
-
+```bash 
 git clone https://github.com/mostafa-IK03/IoT-Based-Smart-Agriculture-System-Using-ESP32.git
 cd IoT-Based-Smart-Agriculture-System-Using-ESP32 
-
+```
 ### 2. Install PlatformIO
-
+```bash
 https://platformio.org/install
-
+```
 ### 3. Configure the Project
 
 ### 4. Build and Flash
+![Alt Text](images/System.png)
