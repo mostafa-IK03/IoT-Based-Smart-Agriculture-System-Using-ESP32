@@ -1,5 +1,9 @@
 # ESP32-Based Smart Irrigation System
 
+## Demo Video on YouTube
+
+Watch our demonstration video [here](https://youtu.be/GJ3FfWzBwvc).
+
 ## Table of Contents
 
 - [Introduction](#introduction)
