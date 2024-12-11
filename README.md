@@ -1,7 +1,5 @@
 # ESP32-Based Smart Irrigation System
 
-![Irrigation System](https://github.com/yourusername/your-repo-name/blob/main/images/irrigation-system.jpg?raw=true)
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -30,8 +28,8 @@ The **ESP32-Based Smart Irrigation System** is an automated gardening solution d
 ## Features
 
 - **Real-Time Monitoring**: Tracks rainfall, soil moisture, and ambient temperature.
-- **Automated Pump Control**: Turns the water pump ON/OFF based on sensor data.
-- **Web Interface**: Provides a user-friendly dashboard to view sensor readings and manually control the pump.
+- **Automated/Manual Pump Control**: Turns the water pump ON/OFF based on sensor data and from the webpage.
+- **Web Interface**: Provides a user-friendly HTML/CSS dashboard to view sensor readings and manually control the pump.
 - **Wi-Fi Connectivity**: Allows remote access and monitoring from any device connected to the network.
 - **Energy Efficient**: Minimizes water wastage by making informed watering decisions.
 
@@ -39,7 +37,7 @@ The **ESP32-Based Smart Irrigation System** is an automated gardening solution d
 
 To build the Smart Irrigation System, you will need the following components:
 
-- **ESP32 Development Board**: e.g., ESP32 DevKitC
+- **ESP32 Development Board**: ESP32 Huzzah32
 - **Rain Sensor**: Analog output type
 - **Soil Moisture Sensor**: Analog output type
 - **MCP9808 Temperature Sensor**: I2C interface
@@ -47,7 +45,7 @@ To build the Smart Irrigation System, you will need the following components:
 - **Water Pump**: Compatible with the relay module
 - **Power Supply**: Appropriate for ESP32 and water pump
 - **Connecting Wires**
-- **Breadboard** (optional, for prototyping)
+- **Breadboard**
 
 ## Software Requirements
 
@@ -56,10 +54,6 @@ To build the Smart Irrigation System, you will need the following components:
 - **Git**: Version control
 - **Serial Driver**: For flashing the ESP32
 - **Web Browser**: To access the web interface
-
-## Wiring Diagram
-
-![Wiring Diagram](https://github.com/yourusername/your-repo-name/blob/main/images/wiring-diagram.png?raw=true)
 
 **Connections:**
 
@@ -94,5 +88,5 @@ To build the Smart Irrigation System, you will need the following components:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/mostafa-IK03/IoT-Based-Smart-Agriculture-System-Using-ESP32.git
+cd IoT-Based-Smart-Agriculture-System-Using-ESP32
