@@ -84,4 +84,4 @@ https://platformio.org/install
 ### 3. Configure the Project
 
 ### 4. Build and Flash
-![Alt Text](images/System.png)
+![Alt Text](running.png)
