@@ -6,7 +6,6 @@
 - [Features](#features)
 - [Hardware Requirements](#hardware-requirements)
 - [Software Requirements](#software-requirements)
-- [Wiring Diagram](#wiring-diagram)
 - [Setup Instructions](#setup-instructions)
   - [1. Clone the Repository](#1-clone-the-repository)
   - [2. Install ESP-IDF](#2-install-esp-idf)
@@ -18,7 +17,6 @@
 - [API Endpoints](#api-endpoints)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
